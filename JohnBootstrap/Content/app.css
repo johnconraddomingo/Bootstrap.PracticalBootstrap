@@ -1,0 +1,25 @@
+﻿body {
+}
+
+header {
+    /*background-color: #000;
+    color: #FFF;
+    width: 100%;*/
+}
+
+footer {
+    background-color: #000;
+    color: #FFF;
+}
+
+.leftAside {
+    background-color: #EBEBEB;
+}
+
+.rightAside {
+    background-color: darkgrey;
+}
+
+.navbar  {
+    margin-bottom: 0;
+}
