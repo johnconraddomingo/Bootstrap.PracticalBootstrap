@@ -65,6 +65,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\appCompare.css" />
+    <Content Include="divBased.html" />
     <Content Include="Images\facebook.png" />
     <Content Include="Images\instagram.png" />
     <Content Include="Images\pinterest.png" />
@@ -99,6 +101,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="tableBased.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
