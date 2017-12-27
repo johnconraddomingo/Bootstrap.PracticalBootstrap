@@ -1,25 +1,43 @@
-﻿body {
-}
-
-header {
-    /*background-color: #000;
-    color: #FFF;
-    width: 100%;*/
-}
-
-footer {
+﻿footer {
     background-color: #000;
     color: #FFF;
 }
 
+.navbar {
+    margin-bottom: 0;
+}
+ 
+
+/* Main Content */
+
 .leftAside {
     background-color: #EBEBEB;
+    padding: 2%;
+    font-weight: bold;
 }
-
+.content {
+    background-color: #FFFFFF;
+    padding: 2%;
+}
 .rightAside {
     background-color: darkgrey;
+    padding: 2%;
 }
 
-.navbar  {
-    margin-bottom: 0;
+/* Icons */
+
+.iconPadding {
+    padding: 5px;
+    
+}
+
+/* Make Columns the Same Height */
+
+.row {
+    overflow: hidden;
+}
+
+[class*="col-"] {
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
 }
